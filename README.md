@@ -10,7 +10,7 @@ MovieLand is a simple and elegant movie search application built with React. It 
 
 ## Screenshots
 
-![MovieLand Screenshot](./screenshots/screenshot-movieland-hom.png)
+![MovieLand Screenshot](./screenshot-movieland-hom.png)
 *MovieLand home screen with the search bar and sample results.*
 
 ![Search Results](./screenshot-movieland-searchresults.png)
